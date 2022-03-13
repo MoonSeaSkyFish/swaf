@@ -4,6 +4,14 @@ Small Web Application Framework on jester.
 
 Already install jester.
 
+## install
+
+```nim
+% git clone https://github.com/MoonSeaSkyFish/swaf.git
+% cd swaf
+% nimble develop
+```
+
 ## How to
 
 ```nim
