@@ -6,7 +6,7 @@ Already install jester.
 
 ## install
 
-```nim
+```shell
 % git clone https://github.com/MoonSeaSkyFish/swaf.git
 % cd swaf
 % nimble develop
